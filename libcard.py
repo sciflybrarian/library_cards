@@ -4,7 +4,8 @@ import datetime as dt
 
 def getnum(prompt):
     '''
-    Collects and validates an integer from the user
+    Collects integer from user. Reprompts if input is invalid.
+    Exits program if user enters no input.
     prompt = string value shown to user
     '''
     result = ""
