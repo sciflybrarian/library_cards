@@ -1,4 +1,4 @@
-# libcardgen
+# library_cards
 
 **Library Card Generator**
 
